@@ -4,11 +4,13 @@ A Tampermonkey script to reveal the hidden attendance percentage on TMU attendan
 
 ## Installation
 
-1. Make sure you have Tampermonkey installed in your browser.
+1. Make sure you have [Via Browser](https://github.com/tuyafeng/Via) installed on your phone.
 
 2. Click [here](https://update.greasyfork.org/scripts/481078/Unhide%20Attendance%20Percentage%20on%20Mobile.user.js) to install the script.
 
-3. Tampermonkey will prompt you to install the script. Click on "Install" to add the script to your Tampermonkey extensions.
+3. Via Browser will prompt you to install the script. Click on "Install" to add the script.
+
+4. The script will now be active, and you can see the previously hidden percentage.
 
 ### Bookmarklet Installation Method
 
