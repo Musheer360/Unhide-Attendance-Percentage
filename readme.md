@@ -14,7 +14,7 @@ A Tampermonkey script to reveal the hidden attendance percentage on TMU attendan
 
 ### Bookmarklet Installation Method
 
-Alternatively, you can use the following bookmarklet:
+Alternatively, you can use the following bookmarklet installation method if you are using Chrome/Edge/Firefox and do not want to install an additional browser app:
 
 1. Copy the following code:
 
